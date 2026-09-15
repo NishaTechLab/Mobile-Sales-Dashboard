@@ -46,6 +46,6 @@ to analyze sales performance, customer behavior, product quantity, and payment m
 
 ## 👩‍💻 Author
 
-**Your Name**
+## Nisha Vishwakarma
 
 Data Analyst | Power BI | SQL | Python
